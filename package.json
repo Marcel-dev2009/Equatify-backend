@@ -6,7 +6,8 @@
   "author": "marcel <izuobasomtochukwu@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon e-backend/src/server.ts",
-    "start": "node e-backend/dist/server.js"
+   "start": "cd e-backend && yarn start",
+    "build": "cd e-backend && yarn build"
+
   }
 }
