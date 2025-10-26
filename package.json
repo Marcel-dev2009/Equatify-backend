@@ -1,0 +1,8 @@
+{
+  "name": "Equatify-Backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Marcel-dev2009/Equatify-backend.git",
+  "author": "marcel <izuobasomtochukwu@gmail.com>",
+  "license": "MIT"
+}
