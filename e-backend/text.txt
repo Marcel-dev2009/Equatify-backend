@@ -1,0 +1,10 @@
+U4UjLgkcH4ij4AHV
+somtochukwuizuoba_db_user
+
+yarn add --save-dev @types/cors
+
+mongosh "mongodb+srv://eqnclust.hzrq1dq.mongodb.net/" --apiVersion 1 --username eqnDB
+
+mongodb+srv://eqnDB:U4UjLgkcH4ij4AHV@eqnclust.hzrq1dq.mongodb.net/
+\
+mongodb+srv://eqnDB:U4UjLgkcH4ij4AHV@eqnclust.hzrq1dq.mongodb.net/?appName=EqnClust
