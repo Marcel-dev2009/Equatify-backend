@@ -8,3 +8,8 @@ mongosh "mongodb+srv://eqnclust.hzrq1dq.mongodb.net/" --apiVersion 1 --username 
 mongodb+srv://eqnDB:U4UjLgkcH4ij4AHV@eqnclust.hzrq1dq.mongodb.net/
 \
 mongodb+srv://eqnDB:U4UjLgkcH4ij4AHV@eqnclust.hzrq1dq.mongodb.net/?appName=EqnClust
+
+
+
+Mistake
+I used  emitDeclarationOnly and declaration on my tsconfig making it to compile my ts to d.ts instead of js
