@@ -17,8 +17,8 @@ var app = express();
 app.use(cors());
 app.use(express.json());
 app.use("/api/auth", authRoutes_default);
-app.get("/", (res, req) => {
-  res.send("Equatify Backend Is running");
+app.get("/", (req, res) => {
+  res.send("Equatify backend is up and running ");
 });
 app.listen(process.env.PORT || 5e3, () => {
   console.log(`Server running on ${process.env.PORT}`);

@@ -7,14 +7,10 @@
     // Keep ES Module syntax
     "module": "esnext",
     "moduleResolution": "bundler",
-    // "target": "esnext",
-   // "verbatimModuleSyntax": true,
      "allowImportingTsExtensions": true,
-    // Keep ESM-friendly flags
     "esModuleInterop": true,
     "isolatedModules": true,
-    // "moduleDetection": "force",
-
+    
     // Safety / Type flags
     "strict": true,
     "forceConsistentCasingInFileNames": true,
